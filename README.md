@@ -1,6 +1,18 @@
 Line Bot 基礎範例程式碼教學 (PHP) - 輕量版 LINEBotTiny.php
 ====================
+### 2. Just Deploy this on Heroku
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+- Input `Channel Secret` and `Channel Access Token`.
+- Remember your heroku, ID.
+
+### 3. Go to LINE Bot Dashboard, setup basic API
+
+- Setup your basic account information. Here is some info you will need to know.
+- `Callback URL`: https://{YOUR_HEROKU_SERVER_ID}.herokuapp.com/callback
+
+It all done.
 在開始之前，可以先加範例機器人！([@omp3220g](https://line.me/R/ti/p/j1sMDEJCyW "@omp3220g"))
 
 #### 範例指令
